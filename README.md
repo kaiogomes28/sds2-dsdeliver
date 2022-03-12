@@ -1,8 +1,6 @@
 # sds2-dsdeliver
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/kaiogomes28)
-
-# Sobre o projeto
+Sobre o projeto
 
 https://kaiogomes-sds2.netlify.app/
 
